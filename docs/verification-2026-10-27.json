@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-27",
+  "repository": "a-share-paper-lab",
+  "defaultBranch": "main",
+  "visibility": "public",
+  "sourceCommit": "6cda19525c249d16a49ffb6cd61acf867057a7e0",
+  "status": "已通过所列检查",
+  "checks": [
+    {
+      "command": "[.] npm run test",
+      "result": "通过",
+      "code": 0
+    },
+    {
+      "command": "[.] npm run build",
+      "result": "通过",
+      "code": 0
+    }
+  ],
+  "scope": [
+    "模型、价格与交易规则需要按实际接入情况确认；本轮测试不验证行情及时性或投资收益。"
+  ],
+  "syntax": {
+    "javascript": 13,
+    "python": 0,
+    "powershell": 0
+  },
+  "runtime": {
+    "node": "24.12.0",
+    "python": "3.12.14",
+    "os": "Windows"
+  }
+}

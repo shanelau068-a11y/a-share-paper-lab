@@ -1,5 +1,10 @@
 # 慢投 · A股模拟实验室
 
+<!-- AI-HANDOFF-ENTRY -->
+**AI接手与运行：**[从这里开始](AI_START_HERE.md) · [安装/启动/数据说明](docs/AI_HANDOFF.md) · [实际验证结果](docs/VERIFICATION.md)。
+<!-- /AI-HANDOFF-ENTRY -->
+
+
 个人模拟学习网页原型，初始10万元虚拟资金，无真实交易能力。原型独立编写，没有集成或声称复刻Qlib、RQAlpha或VeighNa完整引擎。
 
 ## 运行
